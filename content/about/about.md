@@ -1,11 +1,9 @@
 +++
-title = 'My First Post'
+title = 'About'
 date = 2024-03-04T10:50:55+08:00
 genres = ['mystery', 'romance']
 tags = ['red', 'blue']
-keywords = ['aaa', 'bbb']
-description = 'Hello world'
-summary = 'Hello world3333333'
+weight = 100
 [params]
   author = 'John Smith'
 +++
