@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on NangeGao</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on NangeGao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2024 10:50:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 04 Mar 2024 10:50:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Homepage adsfkjl asldkfj&#xA;export const objectToQueryString = (obj: Record&amp;lt;string, any&amp;gt;) =&amp;gt; { const searchParams = new URLSearchParams(); for (const key in obj) { searchParams.append(key, obj[key]); } return searchParams.toString(); } 下面这一段是HTML代码：&#xA;&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;UTF-8&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.0&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Highlight.js 示例&amp;lt;/title&amp;gt; &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;https://cdn.jsdelivr.net/npm/highlight.js/lib/styles/darcula.css&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;pre&amp;gt; &amp;lt;code class=&amp;#34;python&amp;#34;&amp;gt; def hello_world(): print(&amp;#34;Hello, world!&amp;#34;) hello_world() &amp;lt;/code&amp;gt; &amp;lt;/pre&amp;gt; &amp;lt;script src=&amp;#34;https://cdn.jsdelivr.net/npm/highlight.js/lib/highlight.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script src=&amp;#34;https://cdn.jsdelivr.net/npm/highlight.js/lib/languages/python.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; hljs.highlightAll(); &amp;lt;/script&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; </description>
+    </item>
+  </channel>
+</rss>
