@@ -1,7 +1,7 @@
 +++
 title = '第一次装机'
 date = 2023-06-03T20:50:55+08:00
-tags = ['DIY']
+tags = ['DIY', '硬件']
 summary = ' '
 +++
 
